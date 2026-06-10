@@ -4,7 +4,9 @@
 **Syafnul23/syafnul23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Name: Syafnul Rochim
+Place, Date of Birth: Tangerang, 23 August 1996
+Address: dead end lotus street, block c 844a, Cipondoh, Tangerang City
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
